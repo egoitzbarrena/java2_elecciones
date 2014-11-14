@@ -1,0 +1,5 @@
+PNV , Plaza Erkoreka Ernesto 1  , Bilbo , eaj-pnv@bilbao.net , 944204373
+PSOE , Plaza Erkoreka Ernesto 1 , Bilbo , psoe@bilbao.net , 987446533
+PP , Plaza Erkoreka Ernesto 1 , Bilbo , pp@bilbao.net , 944204356
+EH BILDU , Plaza de España 1 , VITORIA , web@ehbildu.net , 945161321
+
